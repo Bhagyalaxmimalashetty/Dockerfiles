@@ -2,7 +2,6 @@ FROM alpine/git as repo
 
 MAINTAINER deekshithsn@gmail.com
 
-
 WORKDIR /app
 RUN git clone https://github.com/spring-projects/spring-petclinic.git
 
