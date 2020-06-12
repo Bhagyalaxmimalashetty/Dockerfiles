@@ -1,6 +1,6 @@
 FROM alpine/git as repo
 
-MAINTAINER sarat.e99@gmail.com
+MAINTAINER deekshithsn@gmail.com
 
 #git
 WORKDIR /app
